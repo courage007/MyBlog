@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courage007 Blog</title>
+    <title>Courage007</title>
     <link>https://courage007.github.io/</link>
-    <description>Recent content on Courage007 Blog</description>
+    <description>Recent content on Courage007</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2019 09:07:20 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2019 11:37:20 +0800</lastBuildDate>
     
 	<atom:link href="https://courage007.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Hugo Post</title>
+      <link>https://courage007.github.io/hugo-notes/first-git-post/</link>
+      <pubDate>Sat, 20 Jul 2019 11:37:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/hugo-notes/first-git-post/</guid>
+      <description>My First Git Post</description>
+    </item>
+    
+    <item>
+      <title>My First Git Post</title>
+      <link>https://courage007.github.io/git%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/first-git-post/first-git-post/</link>
+      <pubDate>Mon, 01 Jul 2019 19:47:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/git%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/first-git-post/first-git-post/</guid>
+      <description>My First Git Post</description>
+    </item>
     
     <item>
       <title>My First Post</title>
@@ -27,15 +45,6 @@
       
       <guid>https://courage007.github.io/posts/my-second-post/</guid>
       <description>My Second Post</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://courage007.github.io/git%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/first-git-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://courage007.github.io/git%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/first-git-post/</guid>
-      <description>My First Git Post</description>
     </item>
     
   </channel>
