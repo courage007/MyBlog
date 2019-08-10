@@ -6,10 +6,25 @@
     <description>Recent content in 网站 on Courage007</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jul 2019 22:36:20 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2019 01:26:20 +0800</lastBuildDate>
     
 	<atom:link href="https://courage007.github.io/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo安装及使用入门</title>
+      <link>https://courage007.github.io/hugo-use-notes/00hugo%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/hugo%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</link>
+      <pubDate>Sat, 10 Aug 2019 01:26:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/hugo-use-notes/00hugo%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/hugo%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</guid>
+      <description>Hugo 简介 Hugo 官网对其描述如下：
+Hugo is a static website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
+Hugo宣称有如下特性：
+(1) Blistering Speed(生成速度快)
+Hugo is the fastest tool of its kind. At &amp;lt;1 ms per page, the average site builds in less than a second.
+(2) Shortcodes（短代码）
+Hugo&amp;rsquo;s shortcodes are Markdown&amp;rsquo;s hidden superpower.</description>
+    </item>
     
     <item>
       <title>Hugo中添加并使用图片资源</title>
