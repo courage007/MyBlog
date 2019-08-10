@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Courage007</title>
+    <link>https://courage007.github.io/tags/</link>
+    <description>Recent content in Tags on Courage007</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2019 01:26:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://courage007.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://courage007.github.io/tags/hugo/</link>
+      <pubDate>Sat, 10 Aug 2019 01:26:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo安装</title>
+      <link>https://courage007.github.io/tags/hugo%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Sat, 10 Aug 2019 01:26:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/tags/hugo%E5%AE%89%E8%A3%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>使用入门</title>
+      <link>https://courage007.github.io/tags/%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</link>
+      <pubDate>Sat, 10 Aug 2019 01:26:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/tags/%E4%BD%BF%E7%94%A8%E5%85%A5%E9%97%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教程</title>
+      <link>https://courage007.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Sat, 10 Aug 2019 01:26:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网站</title>
+      <link>https://courage007.github.io/tags/%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Sat, 10 Aug 2019 01:26:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/tags/%E7%BD%91%E7%AB%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图片资源</title>
+      <link>https://courage007.github.io/tags/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Sat, 20 Jul 2019 22:36:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/tags/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>资源</title>
+      <link>https://courage007.github.io/tags/%E8%B5%84%E6%BA%90/</link>
+      <pubDate>Sat, 20 Jul 2019 22:36:20 +0800</pubDate>
+      
+      <guid>https://courage007.github.io/tags/%E8%B5%84%E6%BA%90/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
